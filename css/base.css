@@ -520,13 +520,16 @@ skills
   color: #ef6534;
 }
 #skills tbody tr:nth-of-type(5) th{
-  color: #34a9de;
+  color: #C76495;
 }
 #skills tbody tr:nth-of-type(6) th{
   color: #f0be3a;
 }
 #skills tbody tr:nth-of-type(7) th{
-  color: #1469a9;
+  color: #00D8FF;
+}
+#skills tbody tr:nth-of-type(8) th{
+  color: #C70000;
 }
 #skills tbody th{
   width: 300px;
@@ -839,4 +842,13 @@ footer
     opacity: 1;
     visibility: visible;
   }
+}
+
+.wip{
+  text-align: center;
+  background-color: #fafafa;
+  border-radius: 50px;
+  width: 100%;
+  height: auto;
+  margin-top: 40px;
 }
