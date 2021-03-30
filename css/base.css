@@ -367,7 +367,7 @@ works
 @media all and (max-width:1000px) {
   #works{
     margin-bottom: 80px;
-    padding: 100px 0 80px;
+    padding: 0 0 60px;
     overflow: hidden;
   }
   #works section{
